@@ -1,10 +1,16 @@
 _repo: Rays-of-Living-Light-on-the-One-Way-of-Salvation_46974
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46974-h/images/cover.jpg
 creator:
   author:
     agent_name: Penrose, Charles W.
     gutenberg_agent_id: '44066'
     url: http://www.gutenberg.org/2009/agents/44066
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46974#Rays-of-Living-Light-on-the-One-Way-of-Salvation
 gutenberg_issued: '2014-09-27'
 gutenberg_type: Text
 identifiers:
